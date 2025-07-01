@@ -32,7 +32,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🧠 [UrbanDine AI](https://github.com/KaustubhPasalkar/UrbanDine-AI)
+#### 🧠 [Modeling-Visitor-Travel-Patterns-to-Restaurants-in-Urban-Environments](https://github.com/KaustubhPasalkar/Modeling-Visitor-Travel-Patterns-to-Restaurants-in-Urban-Environments)
 > A hybrid deep learning + behavior modeling project predicting restaurant foot traffic and visitor decisions using **LSTM**, **KAN**, and **DCM**  
 📄 [Project Report](https://drive.google.com/file/d/15LL4qNq80Nz6VHFmje5Rz9od7ASfK_so/view?usp=sharing)  
 💻 [Codebase](https://drive.google.com/file/d/1tTHzwM652AZKZVnDmT1nZOPThjLedjaZ/view?usp=sharing)
