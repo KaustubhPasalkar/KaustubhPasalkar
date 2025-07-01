@@ -1,78 +1,55 @@
-# 👋 Hi there, I'm Kaustubh Pasalkar
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Kaustubh Pasalkar!</h1>
 
-🎓 Data Analyst | Software Engineer | Data Engineer | AI & Automation Enthusiast  
-📍 Based in San Diego, CA | Open to Remote & Hybrid Roles  
-
----
-
-Welcome to my GitHub! I'm a results-driven Software Engineer with 2+ years of experience building scalable backend systems, automating data pipelines, and delivering impactful dashboards and APIs across enterprise platforms.
-
-💡 I hold a Bachelor’s in Computer Engineering and recently completed my Master’s in Information Systems from **San Diego State University**. I've worked with tools and technologies across the **Java**, **MEAN**, **Python**, and **DevOps** stacks—often blending **data analytics** and **AI automation** into production-ready systems.
+<p>👨‍💻 Full-stack Software Engineer | AI & Data Analytics Enthusiast | Based in <b>San Diego, CA</b></p>
 
 ---
 
-## 🔧 What I Do
+### 💡 About Me
 
-- ✅ Build and deploy REST APIs using Java, Node.js, and Python
-- 📊 Automate and visualize data using SQL, Power BI, Tableau, and Alteryx
-- 🔁 Optimize CI/CD pipelines with Docker, Jenkins, GitLab & Kubernetes
-- 🤖 Work on GenAI projects using Vertex AI, BigQuery & LLM workflows
-- 📈 Enable end-to-end insights with ETL pipelines and cloud platforms
-
----
-
-## 🧠 Technical Skills
-
-**Languages**  
-`Python` `Java` `JavaScript` `TypeScript` `SQL` `Bash`
-
-**Frameworks & Tools**  
-`Spring Boot` `Node.js` `React` `Express` `Alteryx` `Pandas` `Scikit-learn`
-
-**Databases**  
-`PostgreSQL` `MySQL` `MongoDB` `BigQuery`
-
-**DevOps & Cloud**  
-`Docker` `Kubernetes` `Jenkins` `GitLab CI/CD` `Azure` `GCP`
-
-**Data/AI Tools**  
-`Power BI` `Tableau` `Vertex AI` `Looker` `SMOTE` `LSTM` `KAN` `DCM`
-
-**Testing & Monitoring**  
-`JUnit` `Playwright` `Postman` `SonarQube` `Prometheus` `JMeter`
+🎓 Master’s in Information Systems @ SDSU  
+🧠 Passionate about AI, backend systems, and data-driven decision making  
+🌐 Former Software Engineer at Hansen Technologies  
+📊 Built projects in NLP, LLM workflows, and intelligent document processing using Python, Vertex AI, and BigQuery  
 
 ---
 
+### ⚙️ Languages & Tools
 
-## 📌 Featured Projects
-
-- [UrbanDine AI](https://github.com/kaustubhpasalkar/urban-dine-ai): AI-powered tri-model system using LSTM, KAN, and DCM to predict urban restaurant traffic
-- [Power BI Automation Suite](https://github.com/kaustubhpasalkar/powerbi-automation): Streamlined dashboarding & governance with Python + Power Platform
-- [GenAI Workflow Automation](https://github.com/kaustubhpasalkar/genai-document-agent): Vertex AI + BigQuery powered document automation for real-time insights
-
----
-
-## 🌱 Currently Learning
-
-- Cloud-native ML deployments with MLOps
-- Advanced GenAI prompt chaining and RAG pipelines
-- Scalable API security with OAuth and JWT
-
----
-
-## 💬 Ask Me About
-
-- Building real-world ML + backend pipelines
-- Optimizing CI/CD for fast agile teams
-- Integrating BI dashboards with modern data stacks
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
 
 ---
 
-## 📫 Let's Connect!
+### 🚀 Featured Projects
 
-📧 kaustubhpasalkar1547@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/kaustubh-pasalkar-4030731ab)
+#### 🧠 [UrbanDine AI](https://github.com/KaustubhPasalkar/UrbanDine-AI)
+> A hybrid deep learning + behavior modeling project predicting restaurant foot traffic and visitor decisions using **LSTM**, **KAN**, and **DCM**  
+📄 [Project Report](https://docs.google.com/document/d/1CxkWyqrgdAJBMHY8gQ9YILK5AH179-0R/edit?usp=sharing)  
+💻 [Codebase](https://drive.google.com/file/d/1tTHzwM652AZKZVnDmT1nZOPThjLedjaZ/view?usp=sharing)
+
+#### 📊 [Sales Performance Dashboard](https://github.com/KaustubhPasalkar/Comprehensive-Sales-Performance-Dashboard-in-Power-BI)  
+> Interactive Power BI dashboard analyzing $2.29M sales across U.S. states with real-time KPIs and geospatial trends
+
+#### 🏥 [Healthcare DBMS + Analysis](https://github.com/KaustubhPasalkar/Patients-Hospital-Visit-Analysis-Project)  
+> Structured MySQL-based medical database integrated with Power BI to analyze performance and efficiency in patient care
 
 ---
 
-_“Innovation starts where curiosity meets code.”_
+### 📫 Let’s Connect
+<a href="https://www.linkedin.com/in/kaustubh-pasalkar-4030731ab/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:kaustubhpasalkar1547@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+
+---
+
+🔁 _“I believe clean code, scalable systems, and impactful data insights drive better decisions. Let’s build something meaningful!”_
+
