@@ -34,7 +34,7 @@
 
 #### 🧠 [UrbanDine AI](https://github.com/KaustubhPasalkar/UrbanDine-AI)
 > A hybrid deep learning + behavior modeling project predicting restaurant foot traffic and visitor decisions using **LSTM**, **KAN**, and **DCM**  
-📄 [Project Report](https://docs.google.com/document/d/1CxkWyqrgdAJBMHY8gQ9YILK5AH179-0R/edit?usp=sharing)  
+📄 [Project Report](https://drive.google.com/file/d/15LL4qNq80Nz6VHFmje5Rz9od7ASfK_so/view?usp=sharing)  
 💻 [Codebase](https://drive.google.com/file/d/1tTHzwM652AZKZVnDmT1nZOPThjLedjaZ/view?usp=sharing)
 
 #### 📊 [Sales Performance Dashboard](https://github.com/KaustubhPasalkar/Comprehensive-Sales-Performance-Dashboard-in-Power-BI)  
