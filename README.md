@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Kaustubh Pasalkar
 
-🎓 Software Engineer | Data Engineer | AI & Automation Enthusiast  
+🎓 Data Analyst | Software Engineer | Data Engineer | AI & Automation Enthusiast  
 📍 Based in San Diego, CA | Open to Remote & Hybrid Roles  
 
 ---
@@ -43,13 +43,6 @@ Welcome to my GitHub! I'm a results-driven Software Engineer with 2+ years of ex
 
 ---
 
-## 📈 GitHub Stats
-
-![Kaustubh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaustubhpasalkar&show_icons=true&theme=dracula)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubhpasalkar&layout=compact&theme=dracula)
-
----
 
 ## 📌 Featured Projects
 
